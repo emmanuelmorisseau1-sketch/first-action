@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pring geeting
-         run: echo "Hlle wold"
+        run: echo "Hlle wold"
       - name: Pring bye
         run: echo "bye"
